@@ -5,10 +5,21 @@
 <p align="center">
   <em>
   HI,</em>😁<em> This is <b>Noviciusss</b> aka Samarth Pratap Singh this side, I am <b> Computer Science Undergraduate</b> from VIT. Currently trying to find what I aspire. Focusing on <b>Full Stack</b> right now
-<em>
+  </em>
   </p>
-  <p align="center">
-    <a href="">
+<p align="center">
+    <a href="https://noviciusss.github.io/portfolio/" styles="text-decoration :None">Portfolio</a>
+</p>
+<p align="center">
+  😅<em><b> Trying to be fit in this tech savvy world.</b></em>
+</p>
+
+
+### Socials:
+<div align="center">
+  
+</div>
+  
   <!---
 noviciusss/noviciusss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
