@@ -41,9 +41,11 @@
 - Sci-fi movies/tv shows :vulcan_salute:
   <p align="center">
   <a href="https://quine.sh?utm_source=widgets&utm_campaign=noviciusss">
-    <img src="https://stats.quine.sh/noviciusss/github?theme=dark" alt="noviciusss's GitHub | Stats">
+    <img src="https://stats.quine.sh/noviciusss/github?theme=dark" alt="noviciusss's GitHub | Stats">)&nbsp;&nbsp;
+   <img alt="noviciusss's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=noviciusss&amp;theme=vue-dark&amp;hide_border=true" width="500" height="300">
   </a>
 </p>
+
 <h2>🤓 Language and Tools: </h2>
 <p align="center">
 <!--Html--><img src ="https://img.shields.io/badge/-HTML5-%23E34F26?logo=html5&logoColor=white&style=for-the-badge">
