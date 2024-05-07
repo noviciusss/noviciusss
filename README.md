@@ -13,7 +13,11 @@
 <p align="center">
   😅<em><b> Trying to be fit in this tech savvy world.</b></em>
 </p>
-
+<p align="center">
+  <a href="https://github.com/noviciusss/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=noviciusss&style=for-the-badge">
+  </a>
+</p>
 
 ### :technologist: I'm Currently Working on:
 
@@ -35,11 +39,7 @@
 - Listening Music 🎧
 - Manhwa 📖
 - Sci-fi movies/tv shows :vulcan_salute:
-<p align="center">
-  <a href="https://github.com/noviciusss/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=noviciusss&style=for-the-badge">
-  </a>
-</p>
+
   <!---
 noviciusss/noviciusss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
