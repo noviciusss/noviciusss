@@ -44,7 +44,7 @@
     <img src="https://stats.quine.sh/noviciusss/github?theme=dark" alt="noviciusss's GitHub | Stats">
   </a>
 </p>
-### Language and Tools
+<h2>🤓 Language and Tools: </h2>
 <p align="center">
 <!--Html--><img src ="https://img.shields.io/badge/-HTML5-%23E34F26?logo=html5&logoColor=white&style=for-the-badge">
 <!--Css--><img src ="https://img.shields.io/badge/-css3-%231572B6?logo=css3&logoColor=white&style=for-the-badge">
