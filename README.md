@@ -15,11 +15,31 @@
 </p>
 
 
-### Socials:
-<div align="center">
-  
-</div>
-  
+### :technologist: I'm Currently Working on:
+
+
+- JavaScript
+- Basic FrontEnd
+-  Python
+### :nerd_face: I'm currently learning:
+
+- JavaScript
+
+
+### 🤔  What i want to learn:
+- Complete Front End
+- BackEnd
+### 😎 Outside of coding I enjoy:
+
+- Playing mobile games 📱
+- Listening Music 🎧
+- Manhwa 📖
+- Sci-fi movies/tv shows :vulcan_salute:
+<p align="center">
+  <a href="https://github.com/noviciusss/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=noviciusss&style=for-the-badge">
+  </a>
+</p>
   <!---
 noviciusss/noviciusss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
