@@ -23,16 +23,16 @@
 
 
 - JavaScript
-- Basic FrontEnd
--  Python
+- React
+-  Express
 ### :nerd_face: I'm currently learning:
 
-- JavaScript
+- React
 
 
 ### 🤔  What i want to learn:
-- Complete Front End
-- BackEnd
+- Full Stack
+- DSA ---> Maybe 🥴
 ### 😎 Outside of coding I enjoy:
 
 - Playing mobile games 📱
@@ -51,6 +51,7 @@
 <!--Html--><img src ="https://img.shields.io/badge/-HTML5-%23E34F26?logo=html5&logoColor=white&style=for-the-badge">
 <!--Css--><img src ="https://img.shields.io/badge/-css3-%231572B6?logo=css3&logoColor=white&style=for-the-badge">
 <!--js--><img src ="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge">
+<!--express--><img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"> 
 <!--python--><img src ="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <!--c+--><img src ="https://img.shields.io/badge/-C++-%2300599C?logo=cplusplus&logoColor=white&style=for-the-badge">
 <!--Figma--><img src ="https://img.shields.io/badge/figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge">
