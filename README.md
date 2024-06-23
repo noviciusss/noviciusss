@@ -53,6 +53,7 @@
 <!--js--><img src ="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge">
 <!--express--><img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"> 
 <!--python--><img src ="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<!--React--><img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge">
 <!--c+--><img src ="https://img.shields.io/badge/-C++-%2300599C?logo=cplusplus&logoColor=white&style=for-the-badge">
 <!--Figma--><img src ="https://img.shields.io/badge/figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge">
 <!--github--><img src ="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge">
