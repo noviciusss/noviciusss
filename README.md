@@ -22,17 +22,17 @@
 ### :technologist: I'm Currently Working on:
 
 
-- JavaScript
-- React
--  Express
+- NextJs
+- Prisma
+-  Dsa 
 ### :nerd_face: I'm currently learning:
 
-- React
+- Dsa
 
 
 ### 🤔  What i want to learn:
-- Full Stack
-- DSA ---> Maybe 🥴
+- DevOps
+- DSA 
 ### 😎 Outside of coding I enjoy:
 
 - Playing mobile games 📱
