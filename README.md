@@ -32,6 +32,7 @@
 
 ### 🤔  What i want to learn:
 - DevOps
+- Other Stacks
 - DSA 
 ### 😎 Outside of coding I enjoy:
 
