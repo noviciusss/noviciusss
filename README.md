@@ -8,7 +8,7 @@
   </em>
   </p>
 <p align="center">
-    <a href="https://noviciusss.github.io/portfolio/" styles="text-decoration :None">Portfolio</a>
+    <a href="https://portfolio-noviciusss.vercel.app/" styles="text-decoration :None">Portfolio</a>
 </p>
 <p align="center">
   😅<em><b> Trying to be fit in this tech savvy world.</b></em>
