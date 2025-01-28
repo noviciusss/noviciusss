@@ -4,7 +4,7 @@
 </p>
 <p align="center">
   <em>
-  HI,</em>😁<em> This is <b>Noviciusss</b> aka Samarth Pratap Singh this side, I am <b> Computer Science Undergraduate</b> from VIT. Currently trying to find what I aspire. Focusing on <b>Full Stack(especially backend)</b> right now
+  HI, </em>😁<em>This is <b>Noviciusss</b> aka Samarth Pratap Singh this side, I am <b> Computer Science Undergraduate</b> from VIT. Currently trying to find what I aspire. Focusing on <b>Full Stack(especially backend)</b> right now
   </em>
   </p>
 <p align="center">
