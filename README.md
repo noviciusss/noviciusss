@@ -36,7 +36,7 @@
 - DSA 
 ### 😎 Outside of coding I enjoy:
 
-- Playing mobile games 📱
+- Playing mobile and PC games 📱
 - Listening Music 🎧
 - Manhwa 📖
 - Sci-fi movies/tv shows :vulcan_salute:
