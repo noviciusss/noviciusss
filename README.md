@@ -32,7 +32,7 @@
 
 ### 🤔  What i want to learn:
 - DevOps
-- Other Stacks
+- Machine Learning
 - DSA 
 ### 😎 Outside of coding I enjoy:
 
