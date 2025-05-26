@@ -22,13 +22,13 @@
 ### :technologist: I'm Currently Working on:
 
 
-- NextJs
+- Machine learning 
 - Prisma and Database libraries 
 -  Dsa 
 ### :nerd_face: I'm currently learning:
 
 - Dsa
-
+- Ml and Deep Learning 
 
 ### 🤔  What i want to learn:
 - DevOps
