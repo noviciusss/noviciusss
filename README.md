@@ -23,7 +23,6 @@
 
 
 - Machine learning 
-- Prisma and Database libraries 
 -  Dsa 
 ### :nerd_face: I'm currently learning:
 
