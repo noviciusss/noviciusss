@@ -1,13 +1,13 @@
 <div align="center">
   <!-- Typing SVG Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=BD93F9&center=true&vCenter=true&random=true&width=435&lines=Hi,+I'm+Samarth+Pratap+Singh;Full-Stack+Dev;AI/+ML+Enthusiast;CSE+Undergrad" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=BD93F9&center=true&vCenter=true&random=true&width=540&lines=Hi,+I'm+Samarth+Pratap+Singh;Full-Stack+Dev;AI%2FML+Engineer;Transformers+%26+LLMs;Hugging+Face+%26+RAG" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
   <em>
-    Building intelligent systems & seamless UIs • Diving deep into AI/ML • Crafting full‑stack magic
+    Building intelligent systems & seamless UIs • Deep learning with transformers • LLMs on Hugging Face • Reliable RAG apps
   </em>
 </p>
 
@@ -28,16 +28,13 @@
 ---
 
 ## 🚀 About Me
-
-- 🌱 Learning advanced DS, ML algorithms & DL architectures  
-- 🔭 Building full‑stack + AI/ML projects  
-- 👯 Collaborating on open‑source backend/AI modules  
-- 🎯 Goals: Master NLP, explore DevOps  
+- 🌱 Learning advanced **ML/DL** and **transformers**; exploring **LLMs**, Hugging Face, and **RAG** for production‑ready apps  
+- 🔭 Building full‑stack + AI/ML projects with LLM integrations, evaluation, and data-centric workflows  
+- 🎯 Goals: Master NLP/LLMs, design robust RAG systems, and level up DevOps/MLOps for dependable releases  
 
 ---
 
 ## 🛠️ Tech Stack
-
 <details><summary><strong>Languages</strong></summary>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -60,10 +57,24 @@
 <p align="center">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p></details>
+
+<!-- <details><summary><strong>LLMs & NLP</strong></summary>
+<!-- <p align="center">
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Transformers-0F62FE?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1A1A1A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/LlamaIndex-3B82F6?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/FAISS-008080?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinecone-0E7C86?style=for-the-badge&logoColor=white" />
+</p> 
+<p align="center">
+<!-- RAG patterns • prompt engineering • evaluation (faithfulness/groundedness) • retrieval (chunking, hybrid search) • PEFT/LoRA fine‑tuning
+</p> 
+</details> -->
 
 <details><summary><strong>Tools & Platforms</strong></summary>
 <p align="center">
@@ -76,8 +87,14 @@
 
 ---
 
-## 📊 GitHub Stats & Achievements
+## 🧠 LLMs & RAG Focus
+- Efficient fine‑tuning (LoRA/PEFT) and instruction‑tuning for domain adaptation  
+- Retrieval strategies (semantic/hybrid), chunking/indexing trade‑offs, guardrails, and latency/quality balancing  
+- Evaluation for faithfulness and relevance; iterative dataset curation and prompt refinement  
 
+---
+
+## 📊 GitHub Stats & Achievements
 <p align="center">
   <!-- Main Stats Cards -->
   <img src="https://github-readme-stats.vercel.app/api?username=noviciusss&show_icons=true&theme=dracula&include_all_commits=true" height="180" />
@@ -91,7 +108,6 @@
 ---
 
 ## 🏆 Extra Flair
-
 <p align="center">
   <!-- Trophy Badges -->
   <img src="https://github-profile-trophy.vercel.app/?username=noviciusss&theme=onedark&margin-w=15&margin-h=15" alt="Trophies" />
@@ -100,14 +116,12 @@
 ---
 
 ## 🌍 Dev Fun & Personality
-
 <p align="center">
   <!-- Random Dev Joke -->
   <img src="https://readme-jokes.vercel.app/api" alt="Random Dev Joke" />
 </p>
 
 ## 🎮 Hobbies & Interests
-
 When I’m not hacking code, catch me:
 - Dropping dubs in PC/mobile games  
 - Vibing to tunes (EDM, lo-fi, metal)  
@@ -115,11 +129,8 @@ When I’m not hacking code, catch me:
 - Binging sci‑fi shows & thrillers  
 
 ---
-
 *Profile built with 💜 and lines of code*
-
 ---
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
