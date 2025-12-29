@@ -38,8 +38,8 @@
     </a>
   </p>
 
-  <!-- Aesthetic divider -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:BD93F9,100:7B2FF7&height=2&section=header&reversal=true" width="70%" />
+  <!-- Aesthetic divider 
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:BD93F9,100:7B2FF7&height=2&section=header&reversal=true" width="70%" />-->
 </div>
 
 ---
@@ -134,7 +134,7 @@
 
 ---
 
-## 📌 Featured Projects (pin these on your profile)
+<!--## 📌 Featured Projects (pin these on your profile)
 > Replace `REPO_LINK` with real links (2–4 max looks best).
 
 - **RAG App** — grounded answers + citations + evaluation loop • FastAPI + vector search • `REPO_LINK`
@@ -142,7 +142,7 @@
 - **Full‑Stack AI App** — Next.js UI + FastAPI API + deployable infra • `REPO_LINK`
 
 ---
-
+-->
 ## 🎯 Fun Zone
 <div align="center">
   <!-- Random dev joke -->
@@ -157,30 +157,32 @@
 ---
 
 ## 📊 GitHub Stats (with cache-buster)
-<!-- If these fail sometimes, it’s usually the public endpoint getting rate-limited. -->
+<!-- If these fail sometimes, it’s usually the public endpoint getting rate-limited. 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=noviciusss&show_icons=true&theme=dracula&include_all_commits=true&v=2" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noviciusss&layout=compact&theme=dracula&v=2" height="170" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=noviciusss&theme=dracula&hide_border=true&border_radius=10" height="175" />
 </p>
 
----
 
-## 🏆 Trophies (with cache-buster)
+
+<!--## 🏆 Trophies (with cache-buster)
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=noviciusss&theme=onedark&column=-1&margin-w=12&margin-h=12&no-frame=true&v=2" alt="Trophies" />
-</p>
+</p>!-->
 
 ---
 
 ## 🐍 Contribution Snake (super fun)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/noviciusss/noviciusss/output/github-contribution-grid-snake-dark.svg" alt="snake animation dark" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
