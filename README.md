@@ -5,13 +5,13 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=900&color=BD93F9&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Samarth+Pratap+Singh;AI+%2F+ML+Engineer+%2B+Full-Stack+Developer;Multi-Agent+Systems+%7C+RAG+%7C+LLMOps;LangGraph+%7C+FastAPI+%7C+Next.js+%7C+Docker;Open+to+Internships+(AI+%2F+ML+%2F+SDE)"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=900&color=BD93F9&center=true&vCenter=true&width=860&lines=Hi%2C+I'm+Samarth+Pratap+Singh;AI%2FML+%2B+Full-Stack+Developer;Multi-Agent+Systems+%7C+RAG+Pipelines+%7C+LLMOps;LangGraph+%7C+FastAPI+%7C+Qdrant+%7C+Docker;Open+to+Internships+(SDE+%2F+AI+%2F+ML)"
       alt="Typing SVG"
     />
   </a>
 
   <p>
-    <em>Building production-grade AI systems: multi-agent pipelines, hybrid RAG, and evals — deployed end-to-end.</em>
+    <em>Building production-grade AI systems: retrieval, agents, evals — shipped with clean APIs and real metrics.</em>
   </p>
 
   <p>
@@ -28,7 +28,7 @@
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="https://huggingface.co/" target="_blank">
-      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
     </a>
   </p>
 
@@ -42,70 +42,34 @@
 ---
 
 ## ⚡ TL;DR
-
-- 🎓 **B.Tech CSE** @ VIT Bhopal (2023–2027) · CGPA **8.45**
-- 🤖 **AI/ML** — Multi-agent systems (LangGraph), RAG pipelines, fine-tuning (LoRA/PEFT), evals
-- 🧩 **Full-Stack** — Next.js + FastAPI + PostgreSQL + Docker, deployed on Render/AWS
-- 📌 **Open to** AI / ML / SDE internships (placements Aug 2026)
-
----
-
-## 🚀 Featured Projects
-
-### 🔬 Argus — Autonomous Research Engine
-> `LangGraph` `FastAPI` `Groq` `Docker` `LangSmith` · **Feb 2026**
-
-- Production-grade **multi-agent pipeline** using LangGraph supervisor pattern with 5 specialist agents (planner, researcher, critic, writer, supervisor) orchestrated via LLM-driven `Command(goto)` routing
-- Async job architecture (`submit → poll → fetch`) with SQLite persistence + LangGraph checkpointing — jobs survive agent failures; every LLM call traced end-to-end in **LangSmith**
-- Containerized with Docker, deployed on Render; integrated **Tavily**, ArXiv & Wikipedia to synthesize cited Markdown reports in **30–90 seconds**
+- 🎓 B.Tech CSE @ VIT Bhopal (2023–2027) • CGPA 8.45 • internship-ready
+- 🤖 AI focus: multi-agent pipelines, RAG with hybrid retrieval + evals, PEFT fine-tuning
+- 🧩 Full-stack: Next.js UIs + FastAPI backends + Docker-deployed architecture
+- 📊 I report real numbers — ROUGE, BERTScore, accuracy, latency — not just "built a model"
 
 ---
 
-### 📄 DoCopilot — RAG Document Q&A
-> `Next.js` `FastAPI` `Qdrant (Hybrid)` `Reranking` `Groq` · **Dec 2025**
-
-- Full-stack RAG app: upload PDFs/TXT → index via **Qdrant hybrid search** (BM25 + dense vectors) → answer with source citations
-- Retrieval pipeline: RRF fusion + **cross-encoder reranking** → top-k context selection to suppress noise before generation
-- Guardrails (prompt-injection detection, PII redaction, source-grounding) + **LLM-as-Judge** evaluation on 40 queries: **89.2% correctness · 90.5% relevance · 100% source rate · 2.86s avg latency**
-
----
-
-### 🗣️ FLAN-T5 Dialogue Summarizer
-> `PEFT` `LoRA` `Transformers` `Gradio` · **Oct 2025**
-
-- Fine-tuned **FLAN-T5-base** with LoRA (r=16, α=32) on SAMSum (14.7K dialogues) — updated only **2% of parameters** via FP16 mixed precision
-- Achieved **ROUGE-1: 49.01 · BERTScore F1: 72.25 · METEOR: 42.51**
-- Deployed interactive **Gradio app** on HuggingFace Spaces with beam search decoding + published reproducible evaluation suite (ROUGE, BERTScore, METEOR, BLEU)
-
----
-
-### 🏦 RoBERTa — Banking Intent Classifier (Banking77)
-> `PyTorch` `Transformers` `CUDA` · **Sep 2025**
-
-- Fine-tuned **RoBERTa-base** on Banking77 (77 intents, 13K queries) → **93.7% accuracy · 93.6% macro-F1**
-- AdamW + weight decay (LR 2e-5, batch 16/32, 5 epochs), FP16 on GPU — best-checkpoint selection via per-epoch tracking
-- Experiment hygiene: fixed seeds, consistent tokenization/padding, minimal inference loading script for reproducibility
-
----
-
-## 🧭 Current Focus
+## 🧭 Current Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/LangGraph-1A1A1A?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-0B6E4F?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qdrant-FF4B5C?style=for-the-badge&logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangSmith-1A1A1A?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </div>
 
-**What I'm building:**
-- Agentic systems: tool-use, memory, routing, multi-step workflows (LangGraph supervisor & subgraph patterns)
-- RAG internals: chunking strategies, hybrid retrieval, reranking, hallucination guardrails
-- Production habits: async FastAPI services, eval loops (LLM-as-Judge), AWS-friendly deployment
+---
+
+## 🧪 What I'm building / have shipped
+- **Multi-agent systems** — LangGraph supervisor pattern, async job queues, LLM-driven routing, checkpointing
+- **RAG pipelines** — hybrid search (BM25 + dense), RRF fusion, cross-encoder reranking, LLM-as-Judge evals
+- **Fine-tuning** — PEFT/LoRA on FLAN-T5 and RoBERTa with reproducible metrics (ROUGE, BERTScore, F1)
+- **Production habits** — Docker containers, FastAPI services, LangSmith tracing, MLflow/W&B experiment tracking
 
 ---
 
@@ -124,7 +88,7 @@
 </details>
 
 <details>
-  <summary><strong>AI / ML</strong></summary>
+  <summary><strong>ML / DL</strong></summary>
   <br/>
   <div align="center">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -136,15 +100,15 @@
 </details>
 
 <details>
-  <summary><strong>LLMs / Agents / RAG</strong></summary>
+  <summary><strong>LLM / Agent / Retrieval</strong></summary>
   <br/>
   <div align="center">
     <img src="https://img.shields.io/badge/LangGraph-1A1A1A?style=for-the-badge&logo=langchain&logoColor=white" />
     <img src="https://img.shields.io/badge/LangChain-0B6E4F?style=for-the-badge&logo=langchain&logoColor=white" />
-    <img src="https://img.shields.io/badge/Qdrant-FF4B5C?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/FAISS-0096FF?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/LangSmith-7B2FF7?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Groq-00B4D8?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
+    <img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   </div>
 </details>
 
@@ -152,30 +116,19 @@
   <summary><strong>MLOps / Observability</strong></summary>
   <br/>
   <div align="center">
-    <img src="https://img.shields.io/badge/LangSmith-7B2FF7?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/LangSmith-1A1A1A?style=for-the-badge&logo=langchain&logoColor=white" />
     <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
     <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   </div>
 </details>
 
 <details>
-  <summary><strong>Frontend / Backend</strong></summary>
+  <summary><strong>Backend / Full-Stack / DevTools</strong></summary>
   <br/>
   <div align="center">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  </div>
-</details>
-
-<details>
-  <summary><strong>Cloud / DevTools</strong></summary>
-  <br/>
-  <div align="center">
-    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -185,14 +138,22 @@
 
 ---
 
+## 🎯 Fun Zone
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Random Dev Joke" />
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Quote" />
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=noviciusss&theme=dracula&hide_border=true&border_radius=10" height="175" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noviciusss&layout=compact&theme=dracula&hide_border=true&v=2" height="160" />
 </p>
 
 ---
@@ -207,23 +168,11 @@
 
 ---
 
-## 🎯 Fun Zone
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Random Dev Joke" />
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Quote" />
-</div>
-
----
-
 ## 🎮 Off-screen side quests
-- 🎮 Gaming (PC / mobile)
-- 🎵 Music (EDM · lo-fi · metal)
-- 📖 Manhwa / webtoons
-- 🚀 Sci-fi & thrillers
+- Gaming (PC / mobile)
+- Music (EDM, lo‑fi, metal)
+- Manhwa / webtoons
+- Sci‑fi & thrillers
 
 ---
 
@@ -231,14 +180,14 @@
   <sub>Built with curiosity, caffeine, and commits.</sub>
 </div>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD93F9,100:7B2FF7&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
 <!--
 SETUP NOTES:
-1. Snake animation: Add GitHub Action using https://github.com/Platane/snk
-   - Generates /output/github-contribution-grid-snake.svg automatically on push/schedule
-2. Stats widgets: If rate-limited, self-host github-readme-stats on your own Vercel
-3. Add LeetCode badge: https://leetcode-badge-showcase.vercel.app/
+1. Snake: add Platane/snk GitHub Action → outputs to /output/github-contribution-grid-snake.svg
+2. Stats/streak: self-host on Vercel if public endpoints get rate-limited
 -->
