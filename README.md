@@ -15,7 +15,7 @@
 ## `$ whoami`
 
 ```
-Samarth Pratap Singh — B.Tech CSE, VIT Bhopal ('23–'27) · CGPA 8.57
+Samarth Pratap Singh — B.Tech CSE, VIT Bhopal ('23–'27) · CGPA 8.61
 AI/ML Engineer Intern @ AmberFlux EdgeAI
 
 I build the boring-but-hard parts of AI products: agent orchestration
