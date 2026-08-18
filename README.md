@@ -1,172 +1,194 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2200&pause=700&color=7FE08A&center=true&vCenter=true&width=780&lines=%3E+loading+samarth_pratap_singh.env...;%3E+role%3A+AI%2FML+Engineer+%7C+LangGraph+%C2%B7+RAG+%C2%B7+Agents;%3E+status%3A+open_to_offers+%E2%80%94+2027+batch;%3E+ready." alt="terminal typing" />
+# Samarth Pratap Singh
+
+### AI/ML Engineer building retrieval, agent, and document-intelligence systems
+
+`VIT Bhopal '27` &nbsp;·&nbsp; `AI/ML Engineering Intern @ AmberFlux EdgeAI` &nbsp;·&nbsp; `India`
+
+[Portfolio](https://portfolio-noviciusss.vercel.app/) ·
+[LinkedIn](https://www.linkedin.com/in/spsamar/) ·
+[Email](mailto:samarthsin2006@gmail.com) ·
+[Hugging Face](https://huggingface.co/noviciusss)
 
 <br/>
 
-![static](https://img.shields.io/badge/build-passing-7FE08A?style=flat-square&labelColor=0D1117)
-![static](https://img.shields.io/badge/latency-90s_(from_7min)-FFB020?style=flat-square&labelColor=0D1117)
-![static](https://img.shields.io/badge/uptime-open_to_work-7FE08A?style=flat-square&labelColor=0D1117)
+<a href="https://git.io/streak-stats">
+  <img
+    src="https://streak-stats.demolab.com?user=noviciusss&background=0B0D0C&hide_border=true&stroke=1D3325&ring=7FE08A&fire=FFB020&currStreakNum=EDEBE4&sideNums=EDEBE4&currStreakLabel=7FE08A&sideLabels=8F978F&dates=6E766F&border_radius=0"
+    alt="GitHub contribution streak"
+  />
+</a>
 
 </div>
 
 <br/>
 
-## `$ whoami`
+> I build the boring-but-hard parts of AI products: retrieval that is measured,
+> agents that are observable, and memory that survives beyond one conversation.
 
-```
-Samarth Pratap Singh — B.Tech CSE, VIT Bhopal ('23–'27) · CGPA 8.61
-AI/ML Engineer Intern @ AmberFlux EdgeAI
-
-I build the boring-but-hard parts of AI products: agent orchestration
-that doesn't fall over, retrieval that's actually measured, and memory
-that persists across sessions. Every project below ships with numbers,
-not adjectives.
+```txt
+NOW        AI/ML Engineering Intern @ AmberFlux EdgeAI
+FOCUS      Production RAG · Multi-agent systems · LLM evaluation
+SEEKING    2027 full-time AI Engineer · Applied AI · SDE + AI roles
+EDUCATION  B.Tech CSE, VIT Bhopal · 2023—2027 · CGPA 8.61
 ```
 
 <br/>
 
-## `$ neofetch`
+## `// start_here`
 
-```text
-        ▗▄▄▄▖               samarth@vit-bhopal
-       ▐▓▓▓▓▓▌              ─────────────────────────────
-      ▐▓▓▓▓▓▓▓▌             OS ............ VIT Bhopal, CSE '27
-   ▄▄▄▝▜▓▓▓▓▓▛▘▄▄▄          Host ........... AmberFlux EdgeAI (intern)
-  █▓▓▓▓▄ ▝▀▀▀▘ ▄▓▓▓▓█       Kernel ......... LangGraph + FastAPI
-  █▓▓▓▓▓▓▄▄▄▄▄▓▓▓▓▓▓█       Shell .......... python3 --strict
-   ▀▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▀        Uptime ......... 240+ DSA · 4 shipped pipelines
-     ▀▀▜▓▓▓▓▓▓▓▛▀▀          CPU ............ caffeine (98% util)
-        ▝▀▀▀▀▀▘             Memory ......... Postgres · Qdrant · MongoDB
-                            Theme .......... Signal Block [neubrutalist]
-                            Status ......... seeking full-time, Aug 2026
+If you have two minutes:
+
+```txt
+01  DoCopilot    → production RAG, hybrid retrieval, evaluation, guardrails
+02  Argus        → LangGraph orchestration, HITL review, LangSmith tracing
+03  ContextCore  → FastMCP, persistent memory, agent tool execution
 ```
 
 <br/>
 
-## `$ cat capabilities.json`
+## `// selected_systems`
 
-```json
-{
-  "orchestration": ["LangGraph", "multi-agent supervisors", "conditional routing"],
-  "retrieval": ["hybrid search (BM25 + dense)", "RRF fusion", "cross-encoder rerank"],
-  "memory_protocol": ["MCP / FastMCP", "Postgres checkpointing", "Qdrant semantic recall"],
-  "serving": ["FastAPI", "Next.js", "Docker"],
-  "eval": ["LLM-as-Judge", "Ragas", "ROUGE / BERTScore / METEOR"],
-  "core_ml": ["PyTorch", "Transformers", "PEFT / LoRA"],
-  "observability": ["LangSmith", "MLflow", "W&B"],
-  "languages": ["Python", "C++", "TypeScript", "SQL"]
-}
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 / DoCopilot
+
+**Multi-tenant RAG platform**
+
+`FastAPI` `Qdrant` `PostgreSQL` `Next.js` `Azure`
+
+Document Q&A with tenant-scoped hybrid retrieval: BM25, dense vectors,
+RRF fusion, and cross-encoder reranking. Includes async PDF/TXT ingestion,
+prompt-injection detection, PII redaction, and source-cited streaming.
+
+```txt
+89.2%  correctness
+90.5%  relevance
+2.86s  average latency
+40     evaluated queries
+```
+
+[Explore repository →](https://github.com/noviciusss/DoCopilot)
+
+</td>
+<td width="50%" valign="top">
+
+### 02 / Argus
+
+**Multi-agent research engine**
+
+`LangGraph` `FastAPI` `LangSmith` `Docker`
+
+Supervisor-led research workflow coordinating planner, researcher, critic,
+writer, and supervisor agents. Built for explicit routing, human review,
+streamed execution, and traceable decisions.
+
+```txt
+5      specialist agents
+3      research-depth tiers
+30–90s report turnaround
+HITL   review via LangGraph interrupts
+```
+
+[Explore repository →](https://github.com/noviciusss/Argus)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 03 / ContextCore
+
+**Stateful memory agent**
+
+`LangGraph` `FastMCP` `PostgreSQL` `Qdrant` `MongoDB`
+
+A dual-memory architecture that separates conversation checkpointing,
+semantic recall, and persistent user profiles. A FastMCP server exposes
+task and note tools directly to the agent workflow.
+
+```txt
+17/17  evaluation tests passing
+3      memory layers
+MCP    callable tool server
+```
+
+[Explore repository →](https://github.com/noviciusss/ContextCore-CLI)
+
+</td>
+<td width="50%" valign="top">
+
+### 04 / Dialogue Summarizer
+
+**Parameter-efficient summarization**
+
+`PyTorch` `Transformers` `PEFT / LoRA`
+
+LoRA fine-tuning of FLAN-T5-base on SAMSum, updating only 2% of
+the model parameters.
+
+```txt
+49.01  ROUGE-1
+72.25  BERTScore F1
+42.51  METEOR
+2%     trainable parameters
+```
+
+[Try the demo →](https://huggingface.co/spaces/noviciusss/dialogue-summarizer)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `// on_deck`
+
+```txt
+BUILDING       Agent Guard — static analysis for safer agent workflows
+HARDENING      Evaluation harnesses for retrieval, tool calling, and routing
+INTERESTED IN  AI systems that fail visibly, recover predictably, and improve from traces
+```
+
+### Agent Guard
+
+`Python` `AST` `CLI` `GitHub Actions` · **in development**
+
+A static-analysis tool for identifying common failure patterns in agent code:
+
+```txt
+→ unbounded retry loops
+→ unsafe shared state in concurrent fan-out branches
+→ LLM / HTTP calls without explicit timeouts
+→ missing failure boundaries in agent workflows
 ```
 
 <br/>
 
-## `$ ls pipelines/ --status`
+## `// toolkit`
 
-**01. `doc_copilot/`** ![](https://img.shields.io/badge/-deployed-7FE08A?style=flat-square&labelColor=0D1117)
-RAG document Q&A — hybrid retrieval (BM25 + dense) with RRF fusion and cross-encoder rerank.
-```
-correctness   89.2%   (+31 pts over keyword-matching baseline)
-guardrails    prompt-injection detection · PII redaction
-stack         Qdrant · Groq Llama-4-Scout · Next.js · FastAPI
-```
-[→ github.com/noviciusss/DoCopilot](https://github.com/noviciusss/DoCopilot)
-
----
-
-**02. `argus/`** ![](https://img.shields.io/badge/-deployed-7FE08A?style=flat-square&labelColor=0D1117)
-Multi-agent research engine — supervisor routes planner → researcher → critic → writer.
-```
-turnaround    30–90s   (was: hours, done manually)
-control       critic agent auto-rejects weak drafts and re-routes
-tracing       fully traced in LangSmith, async submit → poll → fetch
-```
-[→ github.com/noviciusss/Argus](https://github.com/noviciusss/Argus)
-
----
-
-**03. `contextcore/`** ![](https://img.shields.io/badge/-deployed-7FE08A?style=flat-square&labelColor=0D1117)
-Stateful memory agent with a custom FastMCP server exposing tools over MCP.
-```
-memory        Postgres checkpointing + Qdrant recall + MongoDB profiles
-router        intent-based, conditional LangGraph edges — no mode-switch
-tests         17/17 passing
-```
-[→ github.com/noviciusss/ContextCore-CLI](https://github.com/noviciusss/ContextCore-CLI)
-
----
-
-**04. `dialogue_summarizer/`** ![](https://img.shields.io/badge/-deployed-7FE08A?style=flat-square&labelColor=0D1117)
-LoRA fine-tune of FLAN-T5-base on SAMSum — 2% of parameters updated.
-```
-rouge-1       49.01     bertscore_f1   72.25     meteor   42.51
-result        matches full fine-tuning at a fraction of the compute
-```
-[→ huggingface.co/spaces/noviciusss/dialogue-summarizer](https://huggingface.co/spaces/noviciusss/dialogue-summarizer)
-
----
-
-**05. `agent_guard/`** ![](https://img.shields.io/badge/-in__dev-FFB020?style=flat-square&labelColor=0D1117)
-AST-based static analysis for agent code — catches unbounded retry loops, unsafe shared state in fan-out branches, and timeout-less LLM/HTTP calls. CLI + GitHub Action. No ship date, no pressure.
-
-<br/>
-
-## `$ cat model_card.yaml`
-
-```yaml
-model_name: samarth-pratap-singh
-version: v4.2027-final-year
-architecture: human · caffeinated · stubborn about eval numbers
-parameters: underestimated (probably)
-training_data:
-  - 240+ leetcode problems (DP · graphs · trees — still hardening)
-  - 4 shipped agent/RAG pipelines with real benchmarks
-  - 1 internship, 2 codebases, 0 patience for vague specs
-known_limitations:
-  - will not ship a metric it hasn't personally verified
-  - allergic to "production-grade" claims without a database to back it
-intended_use: SDE / AI-ML full-time roles, 2027 batch
-license: open-to-work
+```txt
+agents       LangGraph · LangChain · MCP / FastMCP · Tool Calling
+retrieval    Qdrant · FAISS · BM25 · Hybrid Search · RRF · Reranking
+backend      Python · FastAPI · PostgreSQL · Redis · Celery
+delivery     Docker · Azure Container Apps · GitHub Actions · Linux
+evaluation   LangSmith · Ragas · LLM-as-Judge · ROUGE · BERTScore
+ml           PyTorch · Transformers · PEFT / LoRA · scikit-learn
+languages    Python · C++ · TypeScript · SQL
 ```
 
 <br/>
-
-## `$ curl /telemetry`
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=noviciusss&theme=react&hide_border=true&background=0D1117&stroke=7FE08A&ring=7FE08A&fire=FFB020&currStreakLabel=7FE08A" height="165" />
-</div>
 
-<br/>
-
-## `$ connect --to=samarth`
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/email-samarthsin2006%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=7FE08A)](mailto:samarthsin2006@gmail.com)
-[![Portfolio](https://img.shields.io/badge/portfolio-live-0D1117?style=flat-square&logo=vercel&logoColor=7FE08A)](https://portfolio-noviciusss.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-spsamar-0D1117?style=flat-square&logo=linkedin&logoColor=7FE08A)](https://www.linkedin.com/in/spsamar/)
-[![HuggingFace](https://img.shields.io/badge/huggingface-noviciusss-0D1117?style=flat-square&logo=huggingface&logoColor=FFB020)](https://huggingface.co/noviciusss)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```
-$ off_duty --list
-gaming · edm / lo-fi / metal · manhwa · sci-fi & thrillers
+```txt
+offline: DSA · gaming · sci-fi / thrillers · manhwa · EDM / lo-fi / metal
 ```
 
-<sub>process exited 0 · thanks for reading the logs</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:14532d,100:0D1117&height=100&section=footer" width="100%"/>
+**Building systems with evidence, not buzzwords.**
 
 </div>
-
-<!--
-SETUP NOTES:
-1. Streak stats: self-hosted fork on Vercel if the public instance rate-limits.
-2. Update pipelines/ + model_card.yaml whenever eval numbers change.
--->
